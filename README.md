@@ -8,8 +8,8 @@ Este projeto tem como objetivo demonstrar a configuração básica de um roteado
 - Garantir segurança de acesso com senhas.
 
 # Versão e dispositivos utilizados
-Cisco Packet Tracer (versão 8.22)
-Equipamentos simulados: Roteador e PC
+- Cisco Packet Tracer (versão 8.22)
+- Equipamentos simulados: Roteador e PC
 
 # Funcionalidades Configuradas
 - Nome do dispositivo (hostname)
