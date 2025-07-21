@@ -1,7 +1,7 @@
 # Projeto 1 - Configuração Roteador Cisco
 Este projeto tem como objetivo demonstrar a configuração básica de um roteador Cisco utilizando o simulador Cisco Packet Tracer, feito durante o curso técnico em Redes de Computadores.
 
-# Objetivos de Aprendizado
+# Objetivos 
 - Configurar endereçamento IP em interfaces.
 - Ativar acesso remoto via Telnet (método não seguro)
 - Definir senhas criptografadas para acesso seguro.
